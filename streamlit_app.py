@@ -89,6 +89,33 @@ Create a file named **solution.txt** containing:
 
     st.warning("⚠️ Sharing flags or solution files is treated as malpractice.")
 
+    st.subheader("💡 Hints – Allowed Commands Only")
+    st.markdown(
+        """
+    The following hints list **only the commands you are allowed to use**.
+    They do **not** reveal solutions or flag locations.
+    """
+    )
+
+    with st.expander("Hints"):
+        st.code(
+            """
+    ls 
+    file
+    chmod
+    cat
+    strings
+    xxd
+    grep
+    stat
+    getfattr
+    cat
+    rev
+    base64
+            """,
+            language="bash"
+        )
+
 # =======================
 # SUBMIT FLAGS
 # =======================
