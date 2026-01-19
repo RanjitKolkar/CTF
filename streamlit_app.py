@@ -89,11 +89,10 @@ Create a file named **solution.txt** containing:
 
     st.warning("⚠️ Sharing flags or solution files is treated as malpractice.")
 
-    st.subheader("💡 Hints – Allowed Commands Only")
+    st.subheader("💡 Hints")
     st.markdown(
         """
-    The following hints list **only the commands you are allowed to use**.
-    They do **not** reveal solutions or flag locations.
+    The following hints can be used to get the flags accross 5 challenges
     """
     )
 
