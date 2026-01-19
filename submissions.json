@@ -1,0 +1,24 @@
+[
+  {
+    "roll": "123",
+    "flags": {
+      "Challenge1": "1",
+      "Challenge2": "2",
+      "Challenge3": "3",
+      "Challenge4": "4",
+      "Challenge5": "5"
+    },
+    "timestamp": "2026-01-19T09:49:07.064091"
+  },
+  {
+    "roll": "12",
+    "flags": {
+      "Challenge1": "ii",
+      "Challenge2": "ii",
+      "Challenge3": "ii",
+      "Challenge4": "ii",
+      "Challenge5": "ii"
+    },
+    "timestamp": "2026-01-19T09:56:47.519393"
+  }
+]
